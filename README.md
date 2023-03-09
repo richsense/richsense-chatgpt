@@ -1,8 +1,11 @@
 # RichSense-ChatGPT
 
+![](assets/preview-light.png#gh-light-mode-only)
+![](assets/preview-dark.png#gh-dark-mode-only)
+
 ## 部署一个你自己的（免费）
 
-> 本项目主要面向中文用户，所以用中文，原版是英文的。
+> 本项目主要面向中文用户，所以用中文。
 
 如果你需要部署给更多人用，那么你可能需要将上面创建的你自己的仓库 `git clone` 到本地。
 
