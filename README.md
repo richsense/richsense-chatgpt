@@ -45,6 +45,13 @@
 3. `pnpm i` 安装依赖。
 4. `pnpm dev` 启动项目。
 
+### 部署应用(node)
+
+1. npx astro add node
+2. npm run build
+3. node ./dist/server/entry.mjs
+
+
 ### 感谢
 
 项目修改自 [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel), 感谢。
